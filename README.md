@@ -10,7 +10,7 @@
 -  Currently learning: Python, SQL and data visualization
 -  Based in Barcelona, Spain
 -  Languages: Portuguese, English and Spanish (that one in progress)
--  Contact: svautier.consulting@gmail.com
+-  Contact: vautier.scarlettg@outlook.com
 
 ## Areas of expertise
 
